@@ -1,10 +1,9 @@
 {
-  "name": "tailwindcss",
+  "name": "tailwind.css",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "vite",
-    "build": "tailwindcss -i tailwind.css -o ./css/tailwind.css "
+    "start": "vite"
   },
   "keywords": [],
   "author": "",
